@@ -1,0 +1,29 @@
+package com.company;
+import java.util.Scanner;
+public class code {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the numbers ");
+       int a = sc.nextInt();
+       int b = sc.nextInt();
+        System.out.println("Enter the operation");
+       char c = sc.next().charAt(0);
+
+       if(c=='+')
+       {
+           System.out.println("The sum is "+ (a+b));
+       }
+       else if(c=='-'){
+           System.out.println("The subtract is "+ (a-b));
+       }
+       else if(c=='*')
+       {
+           System.out.println("The product is "+(a*b));
+       }
+       else if(a=='/')
+       {
+           System.out.println("The division is "+ ( a/b));
+       }
+
+    }
+}
