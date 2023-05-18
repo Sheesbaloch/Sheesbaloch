@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sheesbaloch
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA
+- 🌱 I’m currently learning JAVA and Flutter
+- 💞️ I’m looking to collaborate on JAVA and Flutter
 - 📫 How to reach me (SheesBaloch58@gmail.com)
 
 <!---
